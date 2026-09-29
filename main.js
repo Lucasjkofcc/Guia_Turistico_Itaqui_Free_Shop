@@ -7,9 +7,9 @@ function Espanhol(){
 
 function English(){
     const paragrafos = document.querySelectorAll(".texto-idioma")
-    paragrafos[0].innerHTML = ""
-    paragrafos[1].innerHTML = ""
-    paragrafos[2].textContent = ""
+    paragrafos[0].innerHTML = "Inaugurated in June 18th, 2025, Brasil Free Shop, a Baklizi Group venture, marks an important step for the city’s economic and touristic development. The business operates in the city with approximately 80 employees, consolidating itself as an important job generator and strengthening commerce. Accepts reais, pesos and dollars. Various options at low price, including beverages, chocolates, electronics and clothing."
+    paragrafos[1].innerHTML = "Office hours: from Sunday to Sunday, from 9:00 AM to 8:00 PM.An official photo ID is required.Monthly limits per person: up to US$500,00 tax free and a maximum of 12 litres of alcoholic beverages."
+    paragrafos[2].textContent = "Located in Brazilian cities next to foreign municipalities, land-border duty-free shops are permitted by regulations established in 2018. The regulations provide the exemption of some taxes included in the price of goods. In practice, for Brazilians this means buying products from foreign brands without import duties."
 }
 
 function Portuguese(){
